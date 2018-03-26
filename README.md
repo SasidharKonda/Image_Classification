@@ -12,3 +12,5 @@ Random forest model, a strong learner, intutive and simple algorithm to implemen
 Two step approach was followed to improve the accuracy of the Random forests model to 87%                                                 --> clustering technique to group data points with similar pixel intensities using K-Means clustering                                     --> Tuning the hyper parameters by varying number of estimators or trees and minimum samples leaf
 
 These are just baby steps to learn image classification
+
+Team mates https://github.com/PraveenDubba https://github.com/ramachandrakarthik
